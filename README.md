@@ -15,9 +15,7 @@ using: **
 - *A\* (h = sum of manhattan distances of all tiles)*
 
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
-=-=-=-=-=-=  Rules/Info About Game  =-=-=-=-=-=
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+##Rules/Info About Game  
 
  * The [0] is the hole/reference so when making a left move
    [ 7, 0, 5] -> [ 0, 7, 5]
@@ -34,9 +32,9 @@ using: **
    [ 8, 0, 4 ]
    [ 7, 6, 5 ]
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
-=-=-=-=-=-=-=  base difficulties  =-=-=-=-=-=-=
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+## base difficulties
+
 ―――Easy―――
 [ 1, 3, 4 ]
 [ 8, 6, 2 ]
