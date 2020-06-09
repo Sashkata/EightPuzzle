@@ -2,7 +2,7 @@
 A solver for the eight puzzle using a few different algorithms
 ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――
 
-##Description 
+## Description 
 
 **This project is to attempt to make a 
 solver for a variant of the Eight Puzzle
@@ -15,7 +15,7 @@ using: **
 - *A\* (h = sum of manhattan distances of all tiles)*
 
 
-##Rules/Info About Game  
+## Rules/Info About Game  
 
  * The [0] is the hole/reference so when making a left move
    [ 7, 0, 5] -> [ 0, 7, 5]
@@ -35,18 +35,24 @@ using: **
 
 ## base difficulties
 
-―――Easy―――
+### Easy
+```
 [ 1, 3, 4 ]
 [ 8, 6, 2 ]
 [ 7, 0, 5 ]
+```
 
-―――Medium―――
+### Medium
+```
 [ 2, 8, 1 ]
 [ 0, 4, 3 ]
 [ 7, 6, 5 ]
+```
 
-―――Hard―――
+### Hard
+```
 [ 5, 6, 7 ]
 [ 4, 0, 8 ]
 [ 3, 2, 1 ]
+```
 
