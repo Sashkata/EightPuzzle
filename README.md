@@ -17,8 +17,8 @@ using: **
 
 ## Rules/Info About Game  
 
- * The [0] is the hole/reference so when making a left move
-   [ 7, 0, 5] -> [ 0, 7, 5]
+ * The [0] is the hole/reference 
+      - Ex. when making a left move [ 7, 0, 5] -> [ 0, 7, 5]
 
  * Each move has a cost associated to it of 1
  
