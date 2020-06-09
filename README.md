@@ -35,7 +35,7 @@ using:**
  ```
 
 
-## base difficulties
+## Base Difficulties
 
 ### Easy
 ```
