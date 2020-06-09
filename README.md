@@ -1,21 +1,18 @@
-######################### EightPuzzle #########################
+#EightPuzzle
 A solver for the eight puzzle using a few different algorithms
 ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
-=-=-=-=-=-=  Description  =-=-=-=-=-=
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+##Description 
 
-
-This project is to attempt to make a 
+**This project is to attempt to make a 
 solver for a variant of the Eight Puzzle
-using: 
-- Breadth-First Search
-- Depth-First Search
-- Uniform-Cost Search
-- Best-First Search (h = # of tiles in the wrong position)
-- A* (h = # of tiles in the wrong position)
-- A* (h = sum of manhattan distances of all tiles)
+using: **
+- *Breadth-First Search*
+- *Depth-First Search*
+- *Uniform-Cost Search*
+- *Best-First Search (h = # of tiles in the wrong position)*
+- *A\* (h = # of tiles in the wrong position)*
+- *A\* (h = sum of manhattan distances of all tiles)*
 
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
