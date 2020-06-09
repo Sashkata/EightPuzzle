@@ -1,6 +1,6 @@
-#EightPuzzle
+# EightPuzzle
 A solver for the eight puzzle using a few different algorithms
-―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――
+
 
 ## Description 
 
@@ -28,9 +28,11 @@ using: **
    (making a left move when [0] is on the left wont do anything)
 
  * Winning State
+ ```
    [ 1, 2, 3 ]
    [ 8, 0, 4 ]
    [ 7, 6, 5 ]
+ ```
 
 
 ## base difficulties
