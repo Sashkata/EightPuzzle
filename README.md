@@ -6,7 +6,7 @@ A solver for the eight puzzle using a few different algorithms
 
 **This project is to attempt to make a 
 solver for a variant of the Eight Puzzle
-using: **
+using:**
 - *Breadth-First Search*
 - *Depth-First Search*
 - *Uniform-Cost Search*
